@@ -1,0 +1,11 @@
+PROTOCOL FREEZE RECORD
+Manuscript: 12_child_anaemia_triage_rules
+File: PROTOCOL.md
+Protocol version: 1.0
+SHA-256: 4d012f463a94eab3542cbc241c83535fd7e4f0008a46d2e0c133dd56d4ec6703
+Bytes: 13487
+Frozen (UTC): 2026-08-05T17:24:21.323469+00:00
+
+The confirmatory analysis was executed only after this hash was recorded.
+Any subsequent modification of PROTOCOL.md invalidates this record and must be
+declared in the manuscript as a post-hoc amendment.

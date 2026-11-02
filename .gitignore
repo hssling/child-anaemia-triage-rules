@@ -1,0 +1,13 @@
+# NFHS microdata and individual-level derived data are never committed
+data/
+*.parquet
+*.dta
+*.DTA
+*.zip
+*.npy
+governance/DATASET_BUILD_MANIFEST.json
+outputs/*.json
+figures/*.tiff
+__pycache__/
+*.pyc
+.venv/

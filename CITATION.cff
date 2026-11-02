@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+type: software
+title: "Code for: Can a mother's anaemia decide which child gets tested? Diagnostic accuracy and net benefit of household triage rules for child haemoglobin testing in India"
+version: 1.0.0
+date-released: 2026-11-02
+license: MIT
+repository-code: "https://github.com/hssling/child-anaemia-triage-rules"
+authors:
+  - family-names: "H S"
+    given-names: "Siddalingaiah"
+    orcid: "https://orcid.org/0000-0002-4771-8285"
+    affiliation: "Department of Community Medicine, Shridevi Institute of Medical Sciences and Research Hospital, Tumakuru, India"
+keywords:
+  - anaemia
+  - diagnostic accuracy
+  - decision curve analysis
+  - triage
+  - NFHS-5
+  - India

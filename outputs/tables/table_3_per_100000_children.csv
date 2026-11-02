@@ -1,0 +1,9 @@
+rule,definition,tests_performed,tests_avoided,anaemic_detected,anaemic_missed,non_anaemic_tested,anaemic_among_untested_pct,tests_avoided_per_anaemic_child_missed
+R1,Mother anaemic,59767,40233,43544,24467,16223,60.814038437665396,1.6443571676710858
+R2,Mother moderately or severely anaemic,7808,92192,6052,61959,1756,67.20646092776681,1.4879521792923978
+R3,Child aged 6-23 months,32555,67445,25719,42292,6836,62.7057664370233,1.5947496646968196
+R4,Mother anaemic OR child aged 6-23 months,72716,27284,53019,14992,19697,54.94739920260195,1.8199223521258974
+R5,Mother anaemic OR poorest two wealth quintiles,76312,23688,54060,13951,22252,58.89616360777583,1.6979034605031111
+R6,Mother anaemic OR child 6-23 months OR poorest two quintiles,84160,15840,59609,8401,24550,53.038174512048585,1.885434423790042
+TEST-ALL,Universal testing of all children 6-59 months,100000,0,68011,0,31989,,
+TEST-NONE,No child tested,0,100000,0,68011,0,68.01090001663593,1.4703525460703994

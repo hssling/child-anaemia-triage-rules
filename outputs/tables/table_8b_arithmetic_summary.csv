@@ -1,0 +1,2 @@
+national_child_anaemia_prevalence,pre_test_odds,lr_neg_required_for_npv80_national,best_observed_lr_neg,best_observed_lr_neg_rule,shortfall_factor,lowest_state_prevalence,lowest_state,lr_neg_required_in_lowest_state,max_prevalence_at_which_best_rule_reaches_npv80
+0.6801,2.126,0.1176,0.531,R6,4.5,0.393,kerala,0.3861,0.32
